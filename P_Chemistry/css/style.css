@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+svg {
+  display: block;
+margin: auto;
+}
+	
+.tan-background {
+  background-color: #A49A87;
+  min-height: 800px; 
+  padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
+
+.carousel-inner > .item > img,
+	  .carousel-inner > .item > a > img {
+		  width: 70%;
+		  margin: auto;
+	  }
+		
+		
+h3 {
+	font-family: 'Libre Baskerville', serif;
+	font-size: 22px;
+	}
+		
+	
+p {
+	font-family: 'Raleway', serif;
+	font-size: 14px;
+	}
+
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+
+.myBorder {
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: #FFFFFF;
+  min-height: 100px; 
+  padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
